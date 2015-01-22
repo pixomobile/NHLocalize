@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "NHLocalize"
-  s.version      = "1.1.0"
+  s.version      = "1.1.1"
   s.summary      = "NHLocalize help you to localize your apps, without coding for all propreties."
   s.homepage     = "https://github.com/nthegedus/NHLocalize"
 
