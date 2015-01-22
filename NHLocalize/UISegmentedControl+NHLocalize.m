@@ -7,6 +7,7 @@
 //
 
 #import "UISegmentedControl+NHLocalize.h"
+#import "NHLocalize.h"
 
 @implementation UISegmentedControl (NHLocalize)
 

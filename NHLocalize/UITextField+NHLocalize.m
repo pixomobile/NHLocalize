@@ -7,6 +7,7 @@
 //
 
 #import "UITextField+NHLocalize.h"
+#import "NHLocalize.h"
 
 @implementation UITextField (NHLocalize)
 

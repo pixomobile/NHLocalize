@@ -7,6 +7,7 @@
 //
 
 #import "UIImageView+NHLocalize.h"
+#import "NHLocalize.h"
 
 @implementation UIImageView (NHLocalize)
 

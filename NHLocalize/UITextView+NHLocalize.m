@@ -5,6 +5,7 @@
 //
 
 #import "UITextView+NHLocalize.h"
+#import "NHLocalize.h"
 
 @implementation UITextView (NHLocalize)
 

@@ -7,6 +7,7 @@
 //
 
 #import "UIButton+NHLocalize.h"
+#import "NHLocalize.h"
 
 @implementation UIButton (NHLocalize)
 

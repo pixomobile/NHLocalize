@@ -7,6 +7,7 @@
 //
 
 #import "UILabel+NHLocalize.h"
+#import "NHLocalize.h"
 
 @implementation UILabel (NHLocalize)
 
