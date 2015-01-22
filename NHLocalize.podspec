@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
 
   s.author       = { "Nathan Hegedus" => "nathan.hegedus@hotmail.com" }
 
-  s.source       = { :git => "https://github.com/nthegedus/NHLocalize.git", :tag => "1.1.1" }
+  s.source       = { :git => "https://github.com/pixomobile/NHLocalize.git", :tag => "1.1.1" }
   s.source_files = 'NHLocalize/*.{h,m}'
     
   s.platform     = :ios, '7.0'
