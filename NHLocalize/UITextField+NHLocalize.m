@@ -34,7 +34,7 @@
 
 -(void)setNhlTextFieldPlaceholder:(NSString *)nhlTextFieldPlaceholder{
     
-    [self setText:NSLocalizedString(nhlTextFieldPlaceholder, nil)];
+    [self setPlaceholder:NSLocalizedString(nhlTextFieldPlaceholder, nil)];
     
 }
 
